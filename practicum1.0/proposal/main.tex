@@ -1,0 +1,102 @@
+\documentclass[12pt, onecolumn]{IEEEtran}
+
+% --- Packages ---
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{amsmath, amssymb, amsfonts}
+\usepackage{array, booktabs, tabularx}
+\usepackage[dvipsnames]{xcolor}
+\usepackage[hyphens]{url}
+\usepackage[colorlinks=true, allcolors=blue]{hyperref}
+
+% --- Spacing & Indentation ---
+\usepackage{parskip} 
+\setlength{\parskip}{1.2em} 
+\setlength{\parindent}{0pt}  
+
+\begin{document}
+
+\title{Data Science Practicum Proposal: Document Intelligence System}
+\author{Hana Mengistu \\ 
+        Data Science Program \\
+        Regis University, Denver, CO, USA \\ 
+        \texttt{hmengistu@regis.edu}}
+\maketitle
+
+\section{\textbf{Abstract:}}
+This practicum proposal focuses on the design and development of a document intelligence system capable of automatically extracting both structured and unstructured information from a wide variety of documents, including scanned PDFs and images. Many modern organizations continue to rely on manual or semi-manual processes to convert physical documents and digital PDFs into structured formats such as spreadsheets or databases in order to manage records, invoices, forms, and reports. These processes are time-consuming, error-prone, and difficult to scale. While commercial document understanding platforms exist, they are often limited in flexibility, constrained to specific document types, or prohibitively expensive for small and medium-sized organizations.
+
+The proposed project aims to build an end-to-end document processing pipeline that ingests heterogeneous documents and produces structured outputs such as raw text, detected tables, and form-like key–value pairs. The system will integrate computer vision techniques, optical character recognition (OCR), and machine learning–based layout analysis to identify and extract meaningful document components. Emphasis will be placed on modular system design, interpretability, and the use of open-source tools to replicate the core functionality of large-scale document AI platforms while remaining accessible and extensible.
+
+The expected outcome of this project is a working prototype capable of processing at least two distinct document types, demonstrating effective document understanding across varying layouts and formats. The results will illustrate how modern data science and machine learning techniques can be applied to automate document analysis tasks. This project addresses a real-world problem with direct relevance to healthcare, finance, and government domains, where efficient and accurate document processing is critical.
+
+% --- Keywords Section ---
+\begin{IEEEkeywords}
+Document Intelligence, OCR, Computer Vision, Layout Analysis, Automated Data Extraction.
+\end{IEEEkeywords}
+
+\section{\textbf{Introduction/Background:}}
+Organizations across industries continue to depend on documents as a primary medium for information exchange. When document workflows become complex, data scientists are often called in to translate unstructured or semi-structured document data into digital formats. Current AI systems, such as ChatGPT and other document-processing tools, are capable of reading and interpreting documents from PDFs or images. However, these systems are typically designed for general purposes and are prone to errors when translating complex documents.
+
+Building a system specifically focused on document intelligence, trained to handle a variety of document types consistently, has a higher probability of success. Extracting meaningful information from documents remains a long-standing challenge due to variations in layout, quality, language, and structure. While commercial platforms such as Amazon Textract, Google Document AI, and Microsoft Azure Document Intelligence have made significant progress, each has its own strengths and weaknesses. For example, in manual labeling tasks, the Azure approach tends to be faster and more accurate compared to Google, but if the system detects data incorrectly, there is often no easy way to provide corrections \cite{persumi2024}.
+
+This demonstrates that although powerful systems exist from major tech companies, there is still significant room for growth and improvement in document intelligence solutions. A dedicated, focused system that integrates OCR, computer vision, and machine learning techniques can address these limitations and improve the accuracy and reliability of automated document processing.
+
+\section{\textbf{Problem Statement:}}
+The central challenge of this practicum is automating the extraction of meaningful information from diverse, unstructured documents such as PDFs, images, invoices, forms, reports, and tables. 
+
+This project will build an end-to-end document intelligence system capable of accurately extracting text, tables, and key–value pairs from heterogeneous documents. The stages of development include:
+\begin{itemize}
+    \item \textbf{Data Collection:} acquiring diverse document types
+    \item \textbf{Preparation:} preprocessing PDFs and images
+    \item \textbf{Exploration:} analyzing layouts and content
+    \item \textbf{Modeling:} applying OCR, computer vision, and machine learning
+    \item \textbf{Reporting:} outputting structured, actionable information
+\end{itemize}
+
+A dedicated, modular system focused on document understanding can reduce manual labor, improve accuracy, and accelerate workflows. For example, in the legal domain, law firms process massive quantities of paperwork, including contracts, briefs, and personal letters. Traditionally, lawyers or paralegals had to review every document manually, a time-consuming and error-prone process \cite{pfuricoh2024}. Automating this workflow can save hundreds of hours per month and significantly reduce human errors.
+
+\section{\textbf{Related Work:}}
+Significant work in document AI includes the development of Intelligent Document Processing (IDP) systems. Research indicates that while OCR is a mature technology, the spatial understanding of key-value pairs remains an active area of improvement \cite{techus2024}.
+
+\section{\textbf{Methodology/Approach}}
+\textcolor{gray}{\textit{Section to be completed by end of course.}}
+
+\section{\textbf{Data Analysis}}
+\textcolor{gray}{\textit{Section to be completed by end of course.}}
+
+\section{\textbf{Expected Outcomes:}}
+This project will produce a working prototype capable of extracting text, understanding table structures, and identifying key–value pairs from diverse documents. The system will use OCR for text extraction, computer vision to detect tables and document structure, machine learning to identify key–value pairs, and open-source tools such as OpenCV and Python ML libraries.
+
+The expected impact includes reducing manual labor, improving extraction accuracy, and accelerating workflows in industries such as healthcare, finance, legal services, and more. Academically, this project demonstrates the application of multiple MSDS program skills, including data collection, cleaning, analysis, visualization, and reporting.
+
+Limitations include potential errors on poorly scanned or highly complex documents. Future work may expand the system to support additional languages, document types, or real-time processing, further increasing its applicability and robustness.
+
+\section{\textbf{Timeline:}}
+With the help of AI I have created a Timeline to better help the project stay on track.
+
+
+
+\begin{table}[h]
+\renewcommand{\arraystretch}{1.4}
+\centering
+\begin{tabularx}{\textwidth}{@{} l X X @{}}
+\toprule
+\textbf{Week} & \textbf{Plan} & \textbf{Milestones} \\ \midrule
+\textbf{Week 1} & Define project scope, write proposal, identify objectives, select tools & Submit Week 1 Project Proposal \\
+\textbf{Week 2} & Collect sample PDFs, images, and forms (3 days); explore document types and layouts & Preliminary dataset ready; first progress update \\
+\textbf{Week 3} & Clean and preprocess documents; convert scanned PDFs to images; normalize formats & Data preprocessing completed; pipeline tested on small dataset \\
+\textbf{Weeks 4–5} & Implement OCR pipeline (Tesseract or similar); extract raw text; debugging and code refinement & OCR prototype working on 1–2 document types; progress updates \\
+\textbf{Week 6} & Apply computer vision for table detection; ML models for key–value pairs & Prototype can extract tables/key-values from 2 types \\
+\textbf{Week 7} & Combine OCR, table detection, and key–value extraction into a unified system & Integrated end-to-end prototype; preliminary results ready \\
+\textbf{Week 8} & Evaluate accuracy, fix errors, optimize models, finalize report and presentation & Submit final report, Regis Portfolio showcase (Wednesday) \\ \bottomrule
+\end{tabularx}
+\end{table}
+
+\section{\textbf{Conclusion}}
+\textcolor{gray}{\textit{Section to be completed by end of course.}}
+
+\bibliographystyle{IEEEtran}
+\bibliography{sample}
+
+\end{document}
