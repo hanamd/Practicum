@@ -1,0 +1,19 @@
+names:
+- Header
+- diagram_image
+- paragraph
+- table
+- table header_rows
+- table headercolumns
+- table_data
+- table_info
+nc: 8
+roboflow:
+  license: CC BY 4.0
+  project: doc_label
+  url: https://universe.roboflow.com/space1-7iz5t/doc_label/dataset/4
+  version: 4
+  workspace: space1-7iz5t
+test: ../test/images
+train: ../train/images
+val: ../valid/images
