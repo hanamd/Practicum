@@ -1,0 +1,162 @@
+Federal Data Strategy
+
+Data roles and skills
+
+Data Role
+
+Define: \dentify agency and stakeholder needs for data
+of sufficient quality for intended uses
+
+Practices
+
+1. Identify Data Needs to Answer Key Agency Questions
+2. Assess and Balance the Needs of Stakeholders
+
+28.
+
+Align Quality with Intended Use
+
+Ski
+
+* Strategic planning
+
+* Performance metrics
+
+* Strategic thinking
+
+* Problem solving
+
+* Planning
+
+* Communication
+
+* Teamwork
+
+* Knowledge of requirements for information
+collection review approvals
+
+Domain Expert input is important at this step
+
+36.
+37.
+38.
+
+Coordinate: Assess the ability of data resources and
+infrastructure to meet agency and stakeholder needs
+
+Practices
+
+1. Identify Data Needs to Answer Key Agency Questions
+8. Monitor and Address Public Perceptions
+
+9. Connect Data Functions Across Agencies
+
+10.
+15.
+16.
+17.
+18.
+19.
+20.
+21)
+
+Provide Resources Explicitly to Leverage Data Assets
+Assess Maturity
+
+Inventory Data Assets
+
+Recognize the Value of Data Assets
+
+Manage with a Long View
+
+Maintain Data Documentation
+
+Leverage Data Standards
+
+Align Agreements with Data Management
+Requirements
+
+Leverage Partnerships
+
+Leverage Buying Power
+
+Leverage Collaborative Computing Platforms
+
+* Horizon scanning
+
+* Strategic thinking
+
+* Problem solving
+
+* Planning
+
+* Communication
+
+* Knowledge of the budget process
+
+* Business acumen
+
+* Knowledge of data standards
+
+* Federal enterprise architecture framework (FEAF)
+Data modelling
+
+* Relationship building
+
+* Coalition building
+
+* Knowledge of requirements for information
+collection review approvals
+
+Domain Expert input is important at this step
+
+29.
+30.
+
+Collect: Organize, plan, and execute data collections and
+acquisitions to meet agency and stakeholder needs
+
+Practices
+23.
+25.
+26.
+
+Allow Amendment
+
+Coordinate Federal Data Assets
+
+Share Data Between State, Local, and Tribal
+Governments and Federal Agencies
+
+Design Data for Use and Re-Use
+
+Communicate Planned and Potential Uses of Data
+
+* Basic computer literacy
+
+* Collecting new source data such as through web
+scraping
+
+* Frame development, questionnaire/instrument
+development
+
+* Sampling design
+
+* Real-time or near real-time collection methods
+
+* Developing MOUs and Interagency Agreements
+
+* Communication
+
++ Interpersonal
+
+* Knowledge of requirements for information
+collection review approvals
+
+* Reviewing existing data for potential new uses
+
+STRATEGY.DATA.GOV
+
+Page 18
+
+RESOURCES.DATA.GOV

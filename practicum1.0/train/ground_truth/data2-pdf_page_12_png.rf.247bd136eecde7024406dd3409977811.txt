@@ -1,0 +1,28 @@
+Federal Data Strategy Improving Agency Data Skills Playbook
+
+b) The current data engineer staff have a high modal age. Employees who know how to
+work with the agency’s legacy database architecture are starting to retire, taking
+valuable know-how with them.
+
+2) Analyze: Agency leadership is interested in taking advantage of machine learning approaches.
+Agency X does not have many employees skilled in machine learning approaches or related
+coding languages such as Python.
+
+3) Visualize: Some of the Agency’s stakeholders have begun asking for interactive visualizations
+and the agency’s CIO has recently approved and procured software to support this function.
+However, Agency X does not have many employees with experience using software that creates
+interactive reports or actually designing interactive visualizations.
+
+4) Leadership: Leaders in Agency X don’t feel confident in their understanding of how advanced
+analytics can be used or the power and limitations of predictive modeling techniques. This
+prevents some leaders from making decisions based on analyses.
+
+Questions for further thought
+
+e Are data skills gaps concentrated in specific parts of the agency, either organizationally or
+geographically?
+
+e Are data skills gaps or strengths concentrated in one part of the workforce (e.g., among
+permanent employees, term employees, contract workers)?
+
+STRATEGY.DATA.GOV Page 10 RESOURCES.DATA.GOV

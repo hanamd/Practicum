@@ -1,0 +1,12 @@
+The model is open source and has undergone technical review but is missing some
+documentation.
+e Recommendation: The model would benefit from better documentation of the modelling
+process, rationale for the algorithm selection, its fitness for purpose, inclusion/ exclusion
+criteria for variables, etc.
+
+Systemic bias is the inherent tendency of a process to support specific outcomes. In this mode,
+social vulnerability and poverty data are not substantially disaggregated. The move from ‘common
+dataset' to ‘composite dataset' involved ranking of variables.
+e Recommendation: Clarity, rationale and disaggregation of parameters like social
+vulnerability and poverty would be beneficial. Clarity required in relative weights of
+variables when ranking.

@@ -1,0 +1,86 @@
+Federal Data Strategy
+
+Data Role
+* Programming or tools to create static or
+interactive reports, graphics, and dashboards
+Visualize: Present data insights for consumption by * Web design and HTML
+leaders and stakeholders * Data visualization (including 508 compliance)
+Practices * Understand stakeholder needs and requirements
+6. Convey insights from data + User experience design
+
+* Communication
+* Data storytelling
+
+Disseminate: Provide multiple avenues for release of
+data and insights
+
+* Communication
+
+* Negotiation
+
+* Understand stakeholder needs and requirements
+* Relationship building
+
+* Data formats and API technology
+
+* Companion materials creation
+
+* Accessibility standards (508 compliance)
+
+Practices
+
+6. Convey Insights from Data
+
+7. Use Data to Increase Accountability
+
+14. Convey Data Authenticity
+
+30. Communicate Planned and Potential Uses of Data
+31. Explicitly Communicate Allowable Use
+
+33. Promote Wide Access
+
+34. Diversify Data Access Methods
+
+35. Review Data Releases for Disclosure Risk
+
+Implement & Assess: Maximize the use of data for
+decision-making, accountability, and the public good,
+and continuously improving the data process
+
+* Strategic and innovative thinking
+* Problem solving
+* Data management
+
+Practices * Scientific standards, theories, measurement,
+2. Assess and Balance the Needs of Stakeholders testing, and evaluation procedures
+
+3. Champion Data Use * Communication
+
+4. Use Data to Guide Decision-Making * Coalition building and advocate for data use
+
+7. Use data to Increase Accountability
+
+Other roles and skills
+Other Roles SI
+* Data use
+. * Quantitative and qualitative data types
+Leadership * Communication
+
+Cultivate and support a culture of enterprise-wide
+
+harmonization of data-related activities to maximize * Relationship bullding
+
+* Data science process
+
+outcomes * Data sets, data priorities, and resources
+* Data-based decision making
+
+Each staff member values the use of data in their day-to- - ‘ a .
+* Data risks or limitations
+
+day work
+
+* Reading charts and graphs
+
+STRATEGY.DATA.GOV Page 20 RESOURCES.DATA.GOV

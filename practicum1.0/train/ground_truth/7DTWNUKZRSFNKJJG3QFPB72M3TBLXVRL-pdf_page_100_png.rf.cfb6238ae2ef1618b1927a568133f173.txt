@@ -1,0 +1,49 @@
+COMPSTAT DAI Statistical Report - 13 Month
+
+Data Analysis 13 Month as of 09-09-2010
+
+Location(s): CCI, COR, HDSP, KVSP, PBSP, SAC, SVSP
+
+z| 1 6 4 8 10 3 10 8 9 5 5 3
+
+KVSP__ Total Direct Action Requests
+
+‘Submitted
+Direct Action Requests Accepted 5 0 2 4 8 10 1 10 8 8 0 0 0
+Direct Action Requests Rejected 1 1 2 0 0 0 0 0 1 2 0 0 0
+Number of Open Investigations 28 26 23 25 29 27 26 26 24 25 18 16 20
+Number of Closed Investigations 3 3 5 3 1 3 2 3 3 0 4 4 0
+Investigations exceeding 180 1 8 7 il 16 15 il 3 12 11 5 5 5
+calendar days
+
+Investigations exceeding the Statute 0 0 0 0 0 0 0 0 0 0 0 0 0
+of Limitations
+
+Medical Staff Investigations
+
+Total Central Intake Requests 0 1 0 0 0 0 0 0 1 1 2 2 0
+Per 100 Staff 0.00 0.06 0.00 0.00 0.00 0.00 0.00 0.00 0.06 0.06 0.12 0.12 0.00
+Central Intake Requests Accepted 0 0 0 0 0 0 0 0 0 0 0 0 0
+Central Intake Requests Rejected 0 0 0 0 0 0 0 0 0 0 0 0 0
+Central Intake Requests Approved 0 0 0 0 0 0 0 0 0 0 0 0 0
+for Direct Action
+
+Total Direct Action Requests 0 1 0 0 0 0 0 0 0 0 2 0 0
+‘Submitted
+
+Direct Action Requests Accepted 0 0 0 0 0 0 0 0 0 0 0 0 0
+Direct Action Requests Rejected 0 0 0 0 0 0 0 0 0 0 0 0 0
+Number of Open Investigations 4 4 5 5 5 5 5 5 6 6 7 3 3
+Number of Closed Investigations 0 0 0 0 0 0 0 0 0 0 0 4 0
+Investigations exceeding 180 0 0 1 5 5 5 5 5 6 6 2 2 2
+calendar days
+
+Investigations exceeding the Statute 0 0 0 0 0 0 0 0 0 0 0 0 0
+of Limitations
+
+Adverse Actions
+
+Total 7 6 4 5 3 2 5 3 4 3 7 4 0
+Per 100 Staff 0.42 0.38 0.25 0.29 0.18 0.12 0.30 0.18 0.24 0.18 0.42 0.24 0.00
+
+Dismissals 3 0 a: 2 0 0 0 t 0 0 1 1 0

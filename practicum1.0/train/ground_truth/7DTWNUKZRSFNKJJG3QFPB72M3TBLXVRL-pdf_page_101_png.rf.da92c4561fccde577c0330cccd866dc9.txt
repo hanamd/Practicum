@@ -1,0 +1,43 @@
+COMPSTAT DAI Statistical Report - 13 Month
+
+Data Analysis 13 Month as of 09-09-2010
+
+Location(s): CCI, COR, HDSP, KVSP, PBSP, SAC, SVSP
+
+PBSP Custody Operations
+Total Bed Capacity
+
+Contract Beds 0 0 0 0 0 0 0 0 0 0 0 0 0
+Design Beds 2,337 2,346 2,343 2,338 2,342 2,330 2,337 2,331 2,341 2,340 2,340 2,344 2,343
+Non-Traditional Beds 85 69 77 78 150 185 173 168 189 168 174 164 160
+Overcrowding Beds 801 796 778 72 833 849 839 833 815 802 778 781 768
+Temporary Beds (Family 6 0 2 9 1 1 5 1 20 2 it 8 1
+Visiting/Tank Beds)
+
+Medical Beds il 14 12 14 15 20 15 16 16 20 17 12 it
+Budgeted Capacity 3,407 3,407 3,407 3,407 3,502 3,449 3,449 3,449 3,449 3,449 3,449 3,449 3,449
+Inmate Count 3,235 3,219 3,210 3,210 3,341 3,384 3,367 3,349 3,381 3,332 3,320 3,309 3,283
+% Inst. Filled to Budgeted Capacity 94.95% 94.48% 94.22% 94.22% 95.40% 98.12% 97.62% 97.10% 98.03% 96.61% 96.26% 95.94% 95.19%
+Inmate Custody Level
+
+Level I 259 242 228 225 275 281 298 293 300 289 287 286 260
+Out of Level I Assignments 14 14 15 16 25 19 3B il ll 12 15 16 14
+Out of Level I Endorsed and 1 2 0 0 0 0 0
+Awaiting (Pending) Transfer
+
+% of Out of Level Assignments 5.41% 5.79 % 6.58 % 7.11% 9.09 % 6.76 % 4.36 % 3.75% 3.67 % 4.15% 5.23 % 5.59 % 5.38 %
+Level II 85 69 77 78 150 185 173 168 189 168 174 164 160
+Out of Level II Assignments 37 34 29 33 55 86 86 100 102 95 97 95 83
+Out of Level II Endorsed and 1 1 0 0 0 0 0
+Awaiting (Pending) Transfer
+
+% of Out of Level Assignments 43.53% 49.28% «37.66% = 42.31% «= 36.67% «= 46.49% «= 49.71% 59.52% 53.97% 56.55% 55.75% 57.93% 51.88%
+Level III 0 0 0 0 0 0 0 0 0 0 0 0 0
+Out of Level III Assignments 0 0 0 0 0 0 0 0 0 0 0 0 0
+Out of Level III Endorsed and 0 0 9 14 9 9 10
+Awaiting (Pending) Transfer
+
+% of Out of Level Assignments 0.00 % 0.00 % 0.00 % 0.00 % 0.00 % 0.00 % 0.00 % 0.00 % 0.00 % 0.00 % 0.00 % 0.00 % 0.00 %
+Level IV 1,418 1,436 1,435 1,443 1,455 1,352 1,355 1,354 1,333 1,339 1,318 1,330 1,344
+
+Out of Level IV Assignments 47 57 60 62 59 40 43 38 38 28 26 28 30

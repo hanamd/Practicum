@@ -1,0 +1,41 @@
+| centre for humdata
+
+4
+
+Model Report:
+Drought Anticipatory Action Trigger in Burkina Faso
+
+1. Background
+
+This report summarises the documentation and findings of the peer review of the trigger used in
+UN OCHA’s Burkina Faso Anticipatory Action framework for drought. The impact prediction
+model used as a basis for this trigger was developed by the OCHA Centre for Humanitarian Data
+Predictive Analytics team. The go-no-go trigger mechanism is based on the IRI seasonal rainfall
+forecast, with a threshold dependent on geographical coverage and below-average rainfall
+probability. To find out more, please see the Anticipatory Action Framework for Burkina Faso.
+
+The review has been conducted between May and December 2022.
+
+2. Main Findings and Recommendations
+You can find all the documentation regarding the model, its application and the review process
+at the following links:
+
+e The Model Card describes version 1.0 of the model and was completed in May 2022.
+
+e The Model Evaluation Matrix was completed in July 2022 by a technical expert from the
+Red Cross Red Crescent Climate Centre.
+
+e The Implementation Plan was completed in October 2022. It summarises the concrete
+actions that the model will trigger or inform as part of the 2021 OCHA anticipatory action
+framework in Burkina Faso.
+
+e The Ethical Matrix aims to identify all stakeholders and potential issues regarding the
+intended use of the model. The Ethical Matrix was completed by an expert from DFID in
+November 2022.
+
+A summary of the main findings and recommendations is provided below.
+2.1 Technical Review
+Intended Use
+
+e The model is simple and scalable; however, an alternative source of forecast should be
+used for verification, and other drought indicators such as dry spells considered.

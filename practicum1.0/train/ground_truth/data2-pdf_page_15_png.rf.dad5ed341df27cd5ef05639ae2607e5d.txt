@@ -1,0 +1,76 @@
+Federal Data Strategy Improving Agency Data Skills Playbook
+
+Figure 4. Example gap-closing strategy
+
+Gap-closing Strategy
+
+Questions for further thought
+
+Hiring Incentives
+
+Phased Retirement
+
+1. Need more skill with
+NosQl
+
+x
+Hire two new engineers
+with NoSQL experience
+by FY21Q1
+
+2. Must retain some
+capacity to work
+with legacy data
+architecture
+
+x
+Communicate
+availability of phased
+retirement to relevant
+individuals by FY20 Q4
+
+3. Want more skill with
+machine learning
+
+x
+Hire two new analysts
+with Python experience
+by FY21Q1
+
+x
+Enroll 10+ staff in
+week-long machine
+learning trainings by
+FY20 Q4
+
+4. Want more capacity
+to design interactive
+dashboards
+
+x
+Enroll 5+ staff in 2-
+day data visualization
+course by FY21 Q1
+
+5.Need more data
+understanding for
+leadership
+
+x
+Enroll leadership into
+data fluency course
+by FY20 Q3
+
+Which gaps are temporary, and which are chronic? Could the temporary gaps be addressed by
+hiring private companies, supplemental staff, or hiring retirees as temporary workers?
+
+What are the constraints (e.g., budgeting, time) for training and resources?
+
+If one strategy is failing, how might resources be shifted to a more successful strategy? At what
+point would that decision be made (i.e., when are the exit gates)?
+
+STRATEGY.DATA.GOV
+
+Page 13
+
+RESOURCES.DATA.GOV

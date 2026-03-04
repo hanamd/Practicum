@@ -1,0 +1,59 @@
+Humanitarian organizations can develop their own specific risk models for data incident management
+incorporating these factors. The nature of these risk factors and how they come together to constitute a
+data incident will vary from one organization to another and should be adapted to specific operational
+realities.
+
+STEPS IN DATA INCIDENT MANAGEMENT
+
+After clearly defining what constitutes a data incident, organizations can develop Standard Operating
+Procedures (SOPs) for data incident management.
+
+Data incident management SOPs should include the following 5 steps: 1) notification, 2) classification;
+3) treatment; 4) closure; and 5) knowledge base.’
+
+Classification Treatment Close the Knowledge
+of the incident of the incident incident base
+
+Figure 3: Five steps in the treatment of security incidents (Source: How to handle incidents according to ISO 27001 A.16,
+Antonio Jose Segovia®
+
+The application of these steps in an organization can look as follows:
+
+1. Notification of the incident: A person detects an incident and notifies relevant colleagues according
+to the communication procedures of the organization (usually an email, a phone call, a software tool,
+etc.). A notification should contain, if possible, a description of the key risk factors involved in the
+incident: source, event, vulnerability and impact.
+
+2. Classification of the incident: The recipient of the notification classifies the incident based on it’s
+impact (high, medium or low) and the urgency of treatment (high, medium or low).? Managing risk
+begins with classifying all incidents, whether or not tangible harm actually results from them.”®
+
+3. Treatment of the incident: A technical expert decides on the necessary measures to treat the incident
+once the incident has been classified and the time for treatment has been agreed.
+
+4. Closure of the incident: All information generated during the treatment is recorded and the person
+who first sent notification of the incident is informed that the incident is closed.
+
+5. Knowledge base: All information generated during the treatment of the incident is used to inform and
+train colleagues and as reference material for future similar incidents.
+
+Humanitarian organizations can base their SOPs on this 5-step model, describing how each step should
+take place within their organization. This should include the functions/roles and teams within an
+organization that are responsible at each stage of the process. These steps should be incorporated into
+or extended from existing incident response protocols (e.g. security incident management related to
+humanitarian access).
+
+In a given response context, organizations should also work to integrate any joint incident management
+procedures into existing coordination structures, such as the clusters and mechanisms for inter- and
+intra-cluster coordination.
+
+7 The Centre for Humanitarian Data provides several sources of guidance that can inform the development of Data Incident Management SOPs on
+the Data Responsibility page.
+® How to handle incidents according to ISO 27001 A.16, Antonio Jose Segovia, (October 2015.).
+
+® For humanitarian organizations, an example of such a classification is the World Health Organization's (WHO) International Classification of
+Patient Safety, Conceptual Framework for the International Classification of Patient Safety.
+
+10 WHO, Conceptual Framework for the International Classification of Patient Safety.
+
+THE CENTRE FOR HUMANITARIAN DATA AUGUST 2019 4

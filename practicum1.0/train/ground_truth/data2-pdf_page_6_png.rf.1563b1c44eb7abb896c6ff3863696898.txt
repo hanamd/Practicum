@@ -1,0 +1,56 @@
+Federal Data Strategy Improving Agency Data Skills Playbook
+
+Figure 2: Federal data lifecycle
+
+Ensure Privacy & Security
+
+Data Source
+
+Data Consumer
+: r Implement
+Administrative data, Decision makers,
+data system, Collect fj Curate ualize domain experts,
+survey respondents, ding Assess the public,
+others researchers, others
+Disseminate
+
+Adapted from NIST Big Data Reference Architecture
+https://nvlpubs.nist.gov/nistpubs/SpecialPublications/
+NIST.SP.1500-6r2.pdf
+
+Data roles
+e Define: Identify agency and stakeholder needs for data of sufficient quality for intended uses
+e Coordinate: Assess the ability of data resources and infrastructure to meet agency and
+stakeholder needs
+e Collect: Organize, plan, and execute data collections and acquisitions to meet agency and
+stakeholder needs
+e Curate: Organize, refine, and maintain agency data resources with sufficient quality to meet
+agency and stakeholder needs
+Access: Identify and develop multiple data access methods for agency staff and stakeholders
+Analyze: Optimize the ability of staff and stakeholders to use agency data to generate insights
+Visualize: Present data insights for consumption by leaders and stakeholders
+Disseminate: Provide multiple avenues for release of data and insights
+Implement & Assess: Maximize the use of data for decision-making, accountability, and the
+public good and continuously improving the data process
+
+Other roles
+
+e Leadership: Cultivate and support a culture of enterprise-wide demand and use of data to
+maximize outcomes
+
+e All Others: Each staff member values the use of data in their day-to-day work
+
+© Domain Expert: Understands the context around the data, the needs of all involved
+stakeholders, and often takes on many roles throughout the process in an advisory or lead
+capacity to inform collection, data systems, data dictionaries, data set design, and analysis
+
+e Privacy and Security: Ensure that agencies are consistently adopting and using the most up-to-
+date methods to protect data and comply with all applicable laws and regulations
+
+In addition, the activities and resulting conclusions from this Step may help inform the agency’s efforts
+to address other Actions from the Federal Data Strategy 2020 Action Plan, including Action 1 “Identify
+Data Needs to Answer Priority Agency Questions,” Action 2 “Constitute a Diverse Data Governance
+Body,” Action 3 “Assess Data and Related Infrastructure Maturity,” and Action 5 “Identify Priority
+Datasets for Agency Open Data Plans.”
+
+STRATEGY.DATA.GOV Page 4 RESOURCES.DATA.GOV

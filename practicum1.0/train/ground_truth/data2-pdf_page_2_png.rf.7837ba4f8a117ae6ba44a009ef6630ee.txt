@@ -1,0 +1,45 @@
+Federal Data Strategy Improving Agency Data Skills Playbook
+
+Contents
+
+Improving Agency Data Skills Playbook ...
+
+Step 1 — Identify any critical data skills needed for the agency.....
+Checklist
+Example.
+Questions for further thought...
+
+Step 2 —Assess current staff capacity for needed data skills .
+Checklist...
+Example....
+Questions for further though
+
+Step 3 — Perform a data skills gap analysis
+Checklist
+Example.
+Questions for further though
+
+Step 4 — Identify and execute ways to meet those needs......
+Checklist
+Example.
+Questions for further thought
+
+Metrics and Related Practices and Actions.
+Metrics
+Related strategy practices and actions
+
+Appendix A.....
+
+Federal Data Lifecycle Roles....
+
+Appendix B.
+
+Roles and Skills...
+Data roles and skill
+Other roles and skills ....
+
+Appendix C.
+
+Crosswalk of Federal Data Strategy Practices and the Federal Data Lifecycle
+
+STRATEGY.DATA.GOV Page ii RESOURCES.DATA.GOV

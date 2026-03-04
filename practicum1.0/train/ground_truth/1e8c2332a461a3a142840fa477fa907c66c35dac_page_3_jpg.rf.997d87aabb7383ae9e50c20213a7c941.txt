@@ -1,0 +1,42 @@
+e Clarification is required on the mismatch between drought return periods, and how
+geographical targeting is performed given the coarse resolution.
+
+e Additional verification metrics are required to increase the confidence of the trigger, in
+particular due to the limited hindcast.
+
+e More clarity is needed on how the minimum required area of below average precipitation
+of 10% was chosen, and the exact thresholds used across lead times and activation
+windows should be specified.
+
+The model uncertainty was clearly communicated and accepted by stakeholders.
+A strategy to increase model trust is lacking. For example, the methodology could be
+submitted to a peer-review / academic journal for review once it is more mature.
+
+e Discussion on _ potential negative risks due to interventions occurring in a
+conflict-affected country is very much needed.
+
+The choice of forecasting information and baseline for verification should be
+re-examined to improve trust in the trigger system.
+e More reflection on the potential negative effects of a false alarm is required.
+
+2.2 Ethical Review
+
+|
+
+The motivation behind the selection of targeted regions is unclear, and in particular, is missing Est,
+
+which has been identified as high-risk across several factors, including food insecurity.
+
+e Recommendation: Expand the explanation on the selection of the four regions, in
+particular why Est was not included and Boucle de Mouhoun was.
+
+The cause of food insecurity in Burkina Faso is linked with several factors in addition to drought,
+
+including conflict, agricultural practice, supply chain disruptions and food prices.
+
+e Recommendation: Better justify the selection of rainfall as the sole trigger and why other
+factors were not included.
+
+It is unclear if and how sub-districts with projected IPC-5 will be targeted.
+e Recommendation: Include more details on how districts and communities most in need
+will be targeted by the UN agencies implementing the interventions.

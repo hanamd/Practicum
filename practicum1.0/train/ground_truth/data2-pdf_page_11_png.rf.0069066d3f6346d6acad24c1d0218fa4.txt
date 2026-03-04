@@ -1,0 +1,50 @@
+Federal Data Strategy Improving Agency Data Skills Playbook
+
+Step 3 - Perform a data skills gap analysis
+
+What? After determining the required and available data skills, the agency should identify and prioritize
+any unmet needs. It is important to take a holistic, integrated view for assessing data skills — both
+horizontally across offices and teams, and vertically within the agency hierarchy. There are, after all,
+many actors who must work collaboratively to make good and ethical use of data associated with
+analysis activities.
+
+Who? The agency’s Chief Data Officer, Statistical Official, Evaluation Officer, Chief Human Capital
+Officer, Chief Learning Officer, and Data Governance Body.
+
+How? Perform a gap analysis between the critical agency skills identified in Step 1 — Identify any critical
+data skills needed for the agency, and the available staff skills determined by Step 2 — Assess the current
+staff capacity for needed data skills.
+
+Once the gap analysis is complete, the results should inform how the agency will develop the plan to
+provide and supplement data skills training and related resources to their staff and managers. The
+agency should also consider how to retain, recruit, or otherwise obtain talent to meet their data skill
+needs, for example, referencing recent OPM guidance” relevant to data science skills. For the results of
+the gap analysis to be actionable, a crosswalk should be developed to clearly show existing data skills
+versus data skills needed, assessing not only where there is unmet need for skills, but also where skills
+gaps exist.
+
+Checklist
+
+01 Discuss and prioritize the gaps that exist between the current capacity at the agency-level (i.e.,
+Step 2), and the data skills and associated resources the agency requires (i.e., Step 1).
+
+O Consider how those gaps will change as the workforce turns over and technology evolves across
+the agency.
+
+Example
+
+Agency X returned to the framework and the documentation of what activities the agency did in relation
+to each process. With the survey results and focus group notes in hand, Agency X prioritized the
+following critical gaps:
+
+1) Curate:
+
+a) Agency X staff are well-versed in working with structured data using SQL databases, but
+partner organizations who provide data to Agency X are increasingly collecting
+unstructured data and storing them in NoSQL technologies. Agency X has very few
+employees comfortable with this technology.
+
+2° U.S. Office of Personnel Management. (2019). Data Scientist Titling Guidance. Retrieved from chcoc,gov/content/
+scientist-titling-guidance.
+
+STRATEGY.DATA.GOV Page9 RESOURCES.DATA.GOV

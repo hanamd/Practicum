@@ -1,0 +1,57 @@
+RECOMMENDATIONS FOR IMPROVING DATA INCIDENT MANAGEMENT IN
+HUMANITARIAN ORGANIZATIONS
+
+Introducing or improving data incident management in humanitarian operations is critical to more
+responsible data practice in the sector. The Centre for Humanitarian Data recommends that organizations
+focus on the following areas:
+
+1. Establish a common understanding of data incident management
+Use a risk model to understand the causal chain that can lead to data incidents for specific offices and
+systems. Identify key threat actors and vulnerabilities for offices and systems and understand existing
+security controls and their effectiveness. Finally, map existing data incident management capacity
+and determine whether it is positioned appropriately. Once clear definitions and processes are
+articulated, invest in staff awareness and support a culture of open dialogue about incidents, in which
+proactive reporting and management of incidents is incentivized, not punished.
+
+2. Strengthen data incident management capacity
+Take measures to put in place security controls to mitigate the risk of data incidents, and share best
+practice with partners. Build on existing work in the sector to fill governance gaps which can create
+vulnerabilities for your organization. Engage with organizational partners to set up information
+channels around data incidents. Share known vulnerabilities in a controlled manner with trusted
+counterparts for cross-organizational learning.
+
+3. Support continuous learning
+Support learning and development of improved data incident management practices by organizing
+training and drills based on scenarios likely to occur in different operational settings. These exercises
+should occur regularly and may even involve multiple organizations training and drilling together. In
+addition, document actual data incidents as cases for internal knowledge development.
+
+Organizations are encouraged to share their experience in the development of data incident management
+with the Centre for Humanitarian Data via centrehumdata@un.org.
+
+COLLABORATORS: YALE UNIVERSITY, JACKSON INSTITUTE OF GLOBAL AFFAIRS.
+
+The Centre for Humanitarian Data (‘the Centre’), together with key partners, is publishing a series of eight
+guidance notes on Data Responsibility in Humanitarian Action over the course of 2019 and 2020. The Guidance
+Note series follows the publication of the OCHA Data Responsibility Guidelines in March 2019. Through
+
+the series, the Centre aims to provide additional guidance on specific issues, processes and tools for data
+responsibility in practice. This series is made possible with the generous support of the Directorate-General for
+European Civil Protection and Humanitarian Aid Operations (DG ECHO).
+
+This document covers humanitarian aid activities implemented with the financial assistance of the
+
+ae European Union. The views expressed herein should not be taken, in any way, to reflect the official opinion
+* of the European Union, and the European Commission is not responsible for any use that may be made of
+* the information it contains.
+
+kk *
+*
+k
+
+xk yk
+
+This project is co-funded
+by the European Union
+
+THE CENTRE FOR HUMANITARIAN DATA AUGUST 2019 5

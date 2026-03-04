@@ -1,0 +1,53 @@
+Federal Data Strategy Improving Agency Data Skills Playbook
+
+Metrics and Related Practices and Actions
+
+Metrics
+
+Beyond the metrics presented in this playbook, agencies should develop performance metrics, assign
+responsibility, audit practices, collect implementation and outcome data, and document and learn from
+results. Much of this information will be useful for any future data infrastructure (Action 3) or data skills
+(Action 4) assessments and sharing with other agencies. Agencies should share processes, metrics, and
+results with OMB and other agencies where possible.
+
+Related strategy practices and actions
+
+Action 4 of the Federal Data Strategy 2020 Action Plan is designed to guide agencies in addressing their
+data skill needs. This should not be taken as an isolated action, as many of the other Federal Data
+Strategy actions and principles inform agency-specific implementation of this action. Agencies are
+encouraged to use this Action as a way to build an organizational culture that values data, to be as
+inclusive as possible with their workforce, and to make data skills broadly relevant within their
+organization on a day-to-day basis.
+
+The Federal Data Strategy principles serve as motivational guidelines in the areas of ethical governance,
+conscious design, and a learning culture. They underlie the comprehensive data strategy that
+encompasses federal and federally-sponsored program, statistical, and mission-support data. These
+principles include concepts reflected in existing frameworks, such as those for the protection of personal
+information, for the management of information as an asset, for federal statistical agencies, and for
+federal evidence building. These principles inform the Federal Data Strategy’s practices and actions.
+
+Increasing the data skills of the federal workforce requires putting these principles into practice. Federal
+Data Strategy practices are involved in many of the data roles, whether technical skills associated with
+analysis, ‘softer’ skills associated with communication and coalition building, or otherwise. Refer to the
+Crosswalk of Federal Data Strategy Practices and the Federal Data Lifecycle in Appendix C for details.
+
+Additionally, other Federal Data Strategy actions may require training or otherwise be related to an
+agency’s data skills, priority data analytics lifecycles, and evidence-building functions. For example:
+
+e Action 1 (identify Data Needs to Answer Priority Agency Questions) and Action 5 (Identify
+Priority Datasets for Agency Open Data Plans) can help identify priority data analytics lifecycles.
+
+e Action 2 (Constitute a Diverse Data Governance Body) creates a data governance body that will
+play a central role in Action 4 Step 1.
+
+e Action 3 (Assess Data and Related Infrastructure Maturity) overlaps significantly with the
+current Action 4 Step 2, which can be seen as a subcomponent of Action 3.
+
+e Action 8 (Improve Data and Model Resources for Al Research and Development) would benefit
+from having internal knowledge of Artificial Intelligence to assist non-federal uses of federal
+datasets.
+
+e Action 13 (Develop a Curated Data Skills Catalog) will provide a source for enhancing workforce
+data skills.
+
+STRATEGY.DATA.GOV Page 14 RESOURCES.DATA.GOV

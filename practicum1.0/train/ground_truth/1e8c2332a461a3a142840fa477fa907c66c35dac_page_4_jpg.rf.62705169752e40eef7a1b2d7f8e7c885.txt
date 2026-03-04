@@ -1,0 +1,41 @@
+Efficiency and Feasibility: Best Use of Resources
+With the Burkina Faso HRP being severely underfunded, it is unclear whether this anticipatory
+action pilot diverts funding away from more urgent needs identified by the Food Security Cluster.
+e Recommendation: Discuss the potential impacts that $15 million could have on the
+region or globally and compare to the impacts of the no-regrets approach.
+
+Efficiency and Feasibility: Maximise Collective Action and Avoid Duplication
+The rationale for the choice of model, and how it helps leverage common resources and avoid
+duplication, is lacking.
+e Recommendation: Expand the framework to discuss how the model complements
+existing early warning and food insecurity mitigation efforts in Burkina Faso, such as
+FEWS NET and CH/IPC.
+
+Efficiency and feasibility: Risk/harm-benefit Analysis
+A risk/harm-benefit analysis is required to understand ethical and financial risks and is missing
+from the framework.
+
+e Recommendation: Perform a full risk/harm-benefit analysis.
+
+Accountability and Community Participation
+The implementation plan makes little reference to affected communities, local organizations and
+authorities in the design of the framework.
+e Recommendation: The framework should include activities to engage and explain the
+model to local civil society, affected populations and authorities.
+e Recommendation: Explain why there were no partnerships formed with ECOWAS,
+UEMOA and the RCPA.
+
+Neutrality, Impartiality and Conflict-sensitivity
+It is unclear how much the framework takes into account the presence of conflict in the region.
+e Recommendation: Investigate the feasibility of carrying out a detailed conflict sensitivity
+assessment.
+
+Trustworthiness and Reliability
+Outstanding questions remain on choice of forecast, and whether other options were considered.
+e Recommendation: Expand the explanation of why the IRI dataset was the only one used.
+
+Transparency and Explainability
+No information on how an external actor can learn how the model works and understand the basis
+of the trigger decisions.
+e Recommendation: Amend the framework to include activities that engage and explain
+the model to local civil society, affected populations and authorities.

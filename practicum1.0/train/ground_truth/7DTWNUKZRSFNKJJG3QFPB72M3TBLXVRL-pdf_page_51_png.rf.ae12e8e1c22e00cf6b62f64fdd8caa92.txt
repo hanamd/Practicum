@@ -1,0 +1,43 @@
+COMPSTAT DAI Statistical Report - 13 Month
+
+Data Analysis 13 Month as of 09-09-2010
+
+Location(s): CCI, COR, HDSP, KVSP, PBSP, SAC, SVSP
+
+HDSP Custody Operations
+Total Bed Capacity
+
+Contract Beds 0 0 0 0 0 0 0 0 0 0 0 0 0
+Design Beds 2,251 2,256 2,255 2,243 2,253 2,266 2,262 2,281 2,286 2,260 2,263 2,246 2,265
+Non-Traditional Beds 228 231 227 237 232 224 231 239 238 237 233 233 208
+Overcrowding Beds 1,946 1,946 1,983 1,966 1,958 1,969 1,972 2,011 1,970 1,947 1,979 1,965 1,972
+Temporary Beds (Family 0 0 0 0 0 0 0 0 0 0 0 0 0
+Visiting/Tank Beds)
+
+Medical Beds 32 29 31 26 27 29 25 24 28 24 28 27 29
+Budgeted Capacity 4,486 4,486 4,486 4,486 4,486 4,486 4,486 4,486 4,486 4,486 4,486 4,486 4,486
+Inmate Count 4,457 4,462 4,496 4,472 4,469 4,486 4,489 4,555 4,522 4,468 4,501 4,470 4,474
+% Inst. Filled to Budgeted Capacity 99.35% 99.47%  100.22% 99.69% 99.62%  100.00%  100.07%  101.54% 100.80%, 99.60%, + :100.33% += 99.64% +«=—« 99.73 %
+Inmate Custody Level
+
+Level I 304 288 306 297 306 298 31 301 274 269 299 278 257
+Out of Level I Assignments 21 24 27 24 23 21 17 16 16 14 3 12 7
+Out of Level I Endorsed and 0 0 0 0 1 0 0
+Awaiting (Pending) Transfer
+
+% of Out of Level Assignments 6.91 % 8.33 % 8.82% 8.08 % 7.52% 7.05 % 5.47% 5.32% 5.84% 5.20 % 4.35 % 4.32% 2.72%
+Level II 113 116 112 119 116 107 113 120 119 119 114 115 89
+Out of Level II Assignments 83 81 78 86 74 75 71 90 90 86 87 78 62
+Out of Level II Endorsed and 10 9 3 4 1 0 1
+Awaiting (Pending) Transfer
+
+% of Out of Level Assignments 73.45% 69.83% 69.64% 72.27% 63.79% 70.09% 62.83% 75.00% 75.63%, 72.27% + 76.32% 67.83% 69.66%
+Level III 608 585 594 611 605 612 616 618 617 613 609 605 602
+Out of Level III Assignments 116 97 92 116 116 108 107 118 118 113 107 97 99
+Out of Level III Endorsed and 34 32 33 33 42 34 42
+Awaiting (Pending) Transfer
+
+% of Out of Level Assignments 19.08% 16.58% 15.49% 18.99% 19.17% 17.65% 17.37% 19.09% 19.12 % 18.43% 17.57% 16.03 % 16.45 %
+Level IV 2,624 2,663 2,692 2,669 2,642 2,663 2,634 2,657 2,657 2,639 2,625 2,649 2,660
+
+Out of Level IV Assignments 128 151 140 129 130 144 138 140 142 133 142 152 158

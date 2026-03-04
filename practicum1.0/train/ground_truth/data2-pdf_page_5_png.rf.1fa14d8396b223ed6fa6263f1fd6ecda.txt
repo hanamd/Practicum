@@ -1,0 +1,39 @@
+Federal Data Strategy Improving Agency Data Skills Playbook
+
+Step 1 - Identify any critical data skills needed for the
+agency
+
+What? The agency formulates a clear idea of how data skills play a role in the execution of its mission(s)
+and supporting leadership priorities and its functions at the present and continuing into the future.
+
+Who? The agency’s Chief Data Officer, Statistical Official, Evaluation Officer, Chief Human Capital
+Officer, Chief Learning Officer, and Data Governance Body.
+
+How? Identify agency leadership priorities and mission imperatives around data‘ and then convene
+agency staff to outline the ways data flows into and within the agency and is used to support decision-
+making or otherwise create value towards these priorities. It is important to take a holistic, integrated
+view for assessing data skills — both horizontally across operating units, and vertically within the agency
+hierarchy. An agency-level assessment is required; however, this assessment can be performed at the
+level that makes sense for the agency. If a distributed approach is used, a centralized group should
+review the needs or gaps from each of the operating units of the agency and compile. A common
+vocabulary for the federal data lifecycle was generated to support both this playbook and also for use in
+Action 13 of the Federal Data Strategy 2020 Action Plan, “Develop a Curated Data Skills Catalog,” by
+adapting the NIST Big Data Reference Architecture’ and linking subsequent data roles with Federal Data
+Strategy practices. The framework below lays out a variety of roles for those involved in the federal data
+lifecycle (Appendix A). These include data-focused roles® (given on the next page) and others in the
+organization such as leadership and domain experts. The required data skills are given for each of the
+roles in Appendix B.
+
+4 The learning agenda development process will be a helpful resource for identifying these priorities. See M-19-23, Phase 1
+Implementation of the Foundations for Evidence-Based Policymaking Act of 2018: Learning Agendas, Personnel, and Planning
+Guidance, July 10, 2019, found at: whitehouse.gov/wp-content/uploads/2019/07/M-19-23.pdf.
+
+5 U.S, Department of Commerce. National Institute of Standards and Technology (NIST). NIST Big Data Program. Retrieved from
+nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1500-6r2.pdf.
+
+5 Agency personnel in all data roles need to have a basic understanding of their agency's cybersecurity and privacy policies that
+govern data and need to work closely with their agency experts in cybersecurity and privacy throughout the data lifecycle
+More information on the Federal Information Security Modernization Act of 2014 can be found at
+congress.gov/113/plaws/publ283/PLAW-113pubI283.pdf
+
+STRATEGY.DATA.GOV Page 3 RESOURCES.DATA.GOV

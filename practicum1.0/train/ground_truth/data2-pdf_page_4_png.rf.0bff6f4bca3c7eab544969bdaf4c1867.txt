@@ -1,0 +1,39 @@
+Federal Data Strategy Improving Agency Data Skills Playbook
+
+: Process to identify opportunities to increase staff data skills
+
+Figure
+
+Identify any critical data skills needed for the agency
+Identify agency leadership priorities around data.
+
+«Outline, using a shared vocabulary (e-g., the federal data lifecycle presented herein), the data needed, and the processes or
+activities agency staff perform to transform raw data into useful knowledge to address leadership priorities.
+
+‘* Discuss and document the data skills needed to execute these processes or activities. The skills should be documented
+regardless of whether agency personnel currently possess them.
+
+Assess current staff capacity for needed data skills
+
+‘* Decide how best to assess staff capacity to perform the data skills identified in Step 1 across the agency. Possible options
+include analyzing agency position descriptions and personnel data, querying supervisors or staff through surveys or focus
+groups, and measuring knowledge through pre- and post training tests. Often a combination of methods will be needed to fully
+‘assess capacity. Creating survey and test questions and focus group protocols are examples of activities that require using
+appropriate data skills to properly develop.
+
+‘ Perform the assessment and review the results.
+
+Perform a data skills gap analysis
+‘© Discuss and prioritize the gaps that exist between the current capacity at the agency-level (i.e., Step 2), and the data skills and
+associated resources the agency requires (i.e., Step 1).
+
+# Consider how those gaps will change as the workforce turns over and technology evolves across the agency.
+
+Identify and execute ways to meet those needs
+Discuss and list potential gap-closing approaches the agency is interested in pursuing.
+
+‘* Set outcome milestones and timelines for achieving them.
+
+‘* As the agency executes selected gap-closing approaches, evaluate success against milestones.
+
+STRATEGY.DATA.GOV Page 2 RESOURCES.DATA.GOV

@@ -1,0 +1,99 @@
+RISK MODELS
+
+The figure below presents a generic risk model with risk factors that organizations can use to understand
+how a data incident may occur. A threat event exploits an existing vulnerability that is either magnified by
+predisposing conditions or mitigated by security controls already in place. This causes adverse impacts that
+produce organizational risk, which can include risks for the organization and for affected people.
+
+with Severity Degree
+
+as a combination of
+
+In the context of Impact and Likelihood
+
+(Risk Management Strategy or Approach) ORGANIZATIONAL RISK
+; o To organizational operations (mission,
+Security Controls
+Planned / implemented
+
+Influencing aes eee Key
+
+with
+Effectiveness
+
+Figure 1. “Generic Risk Model with Key Risk Factors”. Source: NIST Special Publication
+
+800-30 pg. 12°
+
+Predisposing .
+Conditions producing
+with
+
+functions, image, reputation), organizational
+assets, individuals, other organizations, and
+the Nation.
+
+The figure below presents one example of how this generic risk model could be adapted to the
+
+humanitarian sector.
+
+THREAT SOURCE THREAT EVENT
+
+Armed actors looking Raid a facility and Vulnerability:
+
+to identify the location seize several hard- Hard-drives contain
+
+of ethnic minorities drives on the premises unencrypted
+beneficiary data
+
+ADVERSE IMPACT
+
+Severity: Data contains
+locations of ethnic
+minorities
+
+Predisposing
+conditions:
+
+Armed group is known
+to target beneficiaries;
+location data was
+required to deliver
+assistance
+
+Misuse of beneficiary
+data to target
+members of ethnic
+minority
+
+Pervasiveness: Data
+covers all members of
+ethnic minority across
+the country
+
+Security Controls:
+Unique beneficiaty
+identifiers have been
+removed
+
+Effectiveness:
+Individual privacy
+protection does not
+prevent group-level
+targeting
+
+Figure 2. Risk Model with Key Risk Factors adapted to a humanitarian context.
+
+® NIST Special Publication 800-30 Revision 1, Guide for Conducting Risk Assessments.
+
+Organizational risk:
+attacks leading to
+injury or even death of
+beneficiaries; loss of
+trust with beneficiary
+communities; loss of
+humanitarian access;
+funding impacts;
+reputational damage
+
+THE CENTRE FOR HUMANITARIAN DATA AUGUST 2019

@@ -1,0 +1,35 @@
+Federal Data Strategy
+
+Figure 3: Example survey
+
+Example Agency Data Skills Capacity Survey
+
+For each pair of questions, please indicate: a) to what extent the described data role is relevant to your team’s work and
+b) to what extent your team possesses the data skills necessary to execute the process and related activities.
+
+1. Define: Identify agency and stakeholder needs for data of sufficient quality for intended uses.
+
+a. This role is relevant to my team’s work:
+
+Strongly agree Agree Disagree Strongly disagree
+
+b. My team possesses all the data skills necessary to execute this process:
+
+Strongly agree Agree Disagree Strongly disagree
+
+2. Coordinate: Assess the ability of data resources and infrastructure to meet agency and stakeholder needs.
+
+Questions for further thought
+
+e Howwill critical data skills be measured individually and in aggregate?
+
+e Who in the agency has critical data skills? What roles are they in right now and in which
+operating units? What is their workload?
+
+e Where are those people working? Centrally within a data office? Embedded into programs and
+mission support functions?
+
+e What barriers exist that might prevent effective skill development or application of those skills
+in routine work activities?
+
+STRATEGY.DATA.GOV Page 8 RESOURCES.DATA.GOV

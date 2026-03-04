@@ -1,0 +1,39 @@
+@D OCHA [sree]
+
+* Humanitarian data incidents are events involving the management of data that have caused
+harm or have the potential to cause harm to crisis-affected people, organizations and their
+operations, and other individuals or groups.
+
++ Examples of humanitarian data incidents include physical breaches of infrastructure,
+unauthorised disclosure of data, and the use of beneficiary data for non-humanitarian purposes,
+among others.
+
+« Adata incident has four aspects: (i) a threat source, (ii) a threat event, (iii) a vulnerability and (iv)
+an adverse impact.
+
++ There are five steps to responding to data incidents: (i) notification, (ii) classification, (iii)
+treatment, and (iv) closure of the incident, as well as (v) learning.
+
+In the humanitarian sector, data incidents are events involving the management of data that have caused
+harm or have the potential to cause harm to crisis affected populations, humanitarian organisations
+
+and their operations, and other individuals or groups. These events can exploit or exacerbate existing
+vulnerabilities.? In some cases, they may also create new vulnerabilities that can increase the risk of future
+data incidents.
+
+Humanitarians have not had a common understanding of what comprises a data incident, nor is there
+
+a minimum technical standard for how these incidents should be prevented and managed. How the
+humanitarian sector develops tools and implements procedures for data incident management will play
+a significant role in the evolution of the ethical, human rights, technical, and professional standards of
+humanitarian operations.
+
+“If aid actors digitize more of their data and communications, they urgently
+need to increase their digital security efforts. Though some actors are
+developing promising protective tools, aid organizations overall might be
+well advised to listen to a quote from IT-security circles: “There are two
+types of organizations: those who have been hacked, and those who will be.”
+
+- Rahel Dette, Do No Digital Harm: Mitigating Technology Risk in Humanitarian Contexts
+
+THE CENTRE FOR HUMANITARIAN DATA AUGUST 2019

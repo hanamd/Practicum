@@ -1,0 +1,33 @@
+Federal Data Strategy Improving Agency Data Skills Playbook
+
+The following checklist and questions further break down how an agency might approach Step 1.
+
+Checklist
+
+O1 Identify agency leadership priorities and mission imperatives around data.
+
+O Outline, using a shared vocabulary (e.g., the federal data lifecycle presented herein), the data
+needed and the processes or activities agency staff perform to transform raw data into useful
+knowledge to address leadership priorities.
+
+Discuss and document the data skills needed to execute these processes or activities. The skills
+should be documented regardless of whether agency personnel currently possess them. If a
+distributed approach is taken, compile the results at an agency level and review with the agency
+data governance body.
+
+Example
+
+Agency X is responsible for ensuring facilities are maintained and safely able to support partner
+agencies’ missions. The table shown on page 6 represents Agency X’s notes from a meeting convened to
+think through Step 1 of this Action. (Data roles are not necessarily aligned with a person’s job role as one
+person may perform more than one data role.)
+
+Questions for further thought
+
+e How do an agency’s or operating unit’s public and private peers assess their own data skills
+needs?
+
+e How well do the agency’s position descriptions match up with the data skills uncovered in the
+above exercises?
+
+STRATEGY.DATA.GOV PageS RESOURCES.DATA.GOV

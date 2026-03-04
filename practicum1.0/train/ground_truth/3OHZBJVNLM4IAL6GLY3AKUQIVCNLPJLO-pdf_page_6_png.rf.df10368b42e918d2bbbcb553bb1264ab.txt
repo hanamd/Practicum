@@ -1,0 +1,66 @@
+New York State Education Department
+
+Special Education
+School District Data Profile for
+Lafayette Central School District
+
+Vocational and Educational Services for Individuals with Disabilities
+
+Indicator 12: Early Childhood Transition
+
+If data are not provided for this indicator, see the schedule posted at http://www, vesid.nysed.gov/sedcar/sppschedule.html_ for the school year in which this school district will
+report data for this indicator.
+
+2007-08
+
+‘* Number of children who were served in Part C and referred to Part B for eligibility determination
+
+o**
+
+‘* Number of those referred determined to be NOT eligible and whose eligibilities were determined prior to their third
+birthday
+
+‘* Number of those found eligible who had an IEP developed and implemented by their third birthday
+
+a
+
++
+
+‘* Number of children for whom delays in determination of eligibility or delays in implementing the IEP were caused by
+reasons that are in "in compliance” with State requirements
+
++
+
+| ‘* Compliance Rate [Line 3 divided by (Line 1 minus Line 2 minus Line 4) #100]
+
+© State target for 2007-08
+
++
+
+100%
+
+a7
+
+| ‘© Meets State target?
+
+f= 0 children referred from EI.
+
+Indicator 13: Secondary Transition
+
+If data are not provided for this indicator, see the schedule posted at http://www, vesid.nysed.gov/sedcar/sppschedule.html_ for the school year in which this school district will
+report data for this indicator.
+
+2007-08
+‘* Number of IEPs reviewed for students ages 15 and above
+‘* Percent of IEPs of students ages 15 and above that include coordinated, measurable, annual IEP goals and transition
+services that will reasonably enable the student to meet the post-secondary goals
+*# State target for 2007-08 100%
+
+| ‘© Meets State target?
+
+| ‘* Date the district reported correction of noncompliance for this indicator
+E
+
+Sun May 02 00:24:42 EDT 2010 420807040000
+
+page 6 of 7

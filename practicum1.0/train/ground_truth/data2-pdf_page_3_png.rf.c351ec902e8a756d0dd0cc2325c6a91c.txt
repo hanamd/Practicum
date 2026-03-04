@@ -1,0 +1,56 @@
+Federal Data Strategy Improving Agency Data Skills Playbook
+
+Improving Agency Data Skills Playbook
+
+Improving staff data skills will allow agencies to better harness the power of data. To help agencies
+address this need, this playbook provides advice and tools to help agencies implement Action 4 of the
+2020 Federal Data Strategy Action Plan (hereafter “2020 Action Plan”), “Identify Opportunities to
+Increase Staff Data Skills.” Executing the activities contained in this document will help agencies
+progress in fulfilling requirements of the Foundations for Evidence-Based Policymaking Act of 2018 in
+addition to related guidance’ >.
+
+This playbook’s structure mirrors and expands upon the four major steps of a data skills capacity
+assessment:
+
+1. identify critical data skills needed for the agency,
+
+2. assess the current staff capacity for those data skills,
+
+3. perform a data skills gap analysis to prioritize the agency’s needs, and
+
+4. identify and execute approaches to meet those needs.
+
+The “who, what, and how” of each step is broken out below, followed by practical activities agencies will
+find helpful in executing the respective step. These activities are not strict, prescriptive instructions that
+require exact execution. Rather, agencies should prioritize and adapt the individual approaches in ways
+that best apply to their own organizations. While the scope for this assessment is intended to be at the
+agency level, some agencies may find it more helpful to do a more granular analysis at the operating or
+business unit level, particularly when skills and mission differ across an agency. If an agency takes such a
+distributed approach, a centralized body should analyze whether gaps can be filled by another part of
+the organization (e.g., the analytics office can provide advanced statistical analysis to other units).
+As each agency is part of a larger Federal Government community, agencies should look to one another
+for inspiration and lessons learned as they identify and meet their data skills needs. Coordination and
+knowledge sharing will be critical to the success and longevity of efforts to develop data skills. Some
+councils that will be important for this include:
+
+¢ Chief Data Officers Council
+
+e Interagency Council on Statistical Policy
+
+e Human Capital Planning and Resources councils
+
+Agencies can also leverage centralized data governance bodies for knowledge sharing within the
+organization.
+
+3 PA 435, 137 9.
+
+of the Foundations for Evidence-Based Policymaking Act of 2018: Learning Agendas,
+Personnel, and Planning Guidance, July 10, 2019, found at: whitehouse.gov/wp-content/uploads/2019/07/M-19-23.pdf.
+
+3 The Evidence Act also requires a capacity assessment, which in part determines “the extent to which evaluation and research
+capacity is present within the agency to include personnel” and “the extent to which the agency has the capacity to assist
+agency staff and program offices to develop the capacity to use evaluation research and analysis approaches and data in the
+day-to-day operations.” This can help guide agencies in fulfilling Step 2 — “Assessing current staff capacity for needed data
+skills” and Step 3- “Perform a data skills gap analysis” of this Action.
+
+STRATEGY.DATA.GOV Page 1 RESOURCES.DATA.GOV

@@ -1,0 +1,22 @@
+Federal Data Strategy Improving Agency Data Skills Playbook
+
+Appendix B
+Roles and Skills
+
+Overarching Concept Description
+
+Ensure Privacy and Security: Ensure that agencies are
+consistently adopting and using the most up-to-date
+methods to protect data and comply with all applicable
+laws and regulations
+
+Agency personnel in all data roles need to
+have a basic understanding of their agency’s
+cybersecurity and privacy policies that
+Practices govern data, and need to work closely with
+11. Prioritize Data Governance their agency experts in cybersecurity and
+12. Govern Data to Protect Confidentiality and Privacy _| Privacy throughout the data life cycle
+
+13. Protect Data Integrity
+
+STRATEGY.DATA.GOV Page 17 RESOURCES.DATA.GOV

@@ -1,0 +1,56 @@
+Federal Data Strategy Improving Agency Data Skills Playbook
+
+Step 4 - Identify and execute ways to meet those needs
+
+What? After identifying gaps, the agency should develop and execute strategies to close those gaps.
+
+Who? The agency's Chief Data Officer, Statistical Official, Evaluation Officer, Chief Human Capital
+Officer, Chief Learning Officer, and Data Governance Body.
+
+How? Determine the approaches to addressing agency data skills deficiencies. Agencies can address
+gaps by retaining talent, recruiting new employees, and building upon existing skill sets. The Curated
+Data Skills Catalog from Action 13 of the Federal Data Strategy 2020 Action Plan should aid the agency in
+meeting those needs by providing information on existing learning providers, programs, courses, and
+opportunities for employees to practice and apply new skills.
+
+Based on OPM’s guidance on Competency Modeling and Gap Analysis," the agency identifies core and
+technical competency models necessary for mission achievement.
+
+Chief Human Capital Officers and Chief Learning Officers play a big role in this phase and should work
+collaboratively to execute ways to meet those needs as resources permit. Using the data gathered from
+the data skills gap analysis, the Chief Human Capital Officer and Chief Learning Officer should establish a
+comprehensive and sustainable strategic approach to recruit and develop existing talent within
+organizations, and bridge identified skills gaps, working across human resources disciplines, just as data
+practitioners are being asked to do”.
+
+Some of the strategies to close the gaps include, but are not limited to:
+
+e Use the agency’s data governance body to analyze whether gaps can be filled by another part of
+the agency (e.g., the analytics office can provide analysis support to other units).
+
+e Review the Curated Data Skills Catalog from Action 13 of the Federal Data Strategy 2020 Action
+Plan to identify learning providers, programs, and courses that can provide the necessary skills
+to bridge any gaps.
+
+¢ Coordinate and share lessons learned in addressing skills gaps through government-wide
+councils such as the Chief Data Officers Council.
+
+* Convene subject matter expert meetings to discuss topics ranging from developing workforce
+planning, upskilling, and reskilling to improving recruitment processes, job analysis
+documentation, and other human resources initiatives.
+
+e Bring the voice of the employee to the table in data skill discussions and define data skills that
+all staff should have versus those appropriate for more advanced staff. Then, customize the data
+skills training program based upon the level of competency needed by different groups of
+employees.
+
+e Identify successful change management strategies for managers to help them better understand
+how data can enhance the work of the organization.
+
+11.U.S. Office of Personnel Management. Workforce & Succession Planning: Competencies and Gaps. Retrieved from
+opm.gov/services-for-agencies/workforce-succession-planning/competencies-and-gaps/.
+
+2 Elkeles, T., & Phillips, J.J. (2017). Chief Talent Officer: The Evolving Role of the Chief Learning Officer (2" ed.). New York, NY:
+Routledge.
+
+STRATEGY.DATA.GOV Page 11 RESOURCES.DATA.GOV

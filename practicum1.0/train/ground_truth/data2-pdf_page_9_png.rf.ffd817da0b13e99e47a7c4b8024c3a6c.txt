@@ -1,0 +1,46 @@
+Federal Data Strategy Improving Agency Data Playbook
+
+Step 2 - Assess current staff capacity for needed data
+skills
+
+What? Having identified the processes and the associated data skills that the agency performs to turn
+raw data into actionable knowledge, the agency needs to determine which of those skills staff and
+managers currently possess. Without a clear understanding of how the current workforce’s data skills
+match up with needed data skills, the agency cannot determine how to invest in filling gaps.
+
+The agency should view the skills assessment in terms of a network or ecosystem of staff and skills. For
+example, increasing staff capability and capacity for predictive analytics alone will not result in effective
+use of predictive analysis products. Managers and leaders, program staff, and mission support staff also
+need specific applicable data skills in order for these advanced data products to be effectively used.
+
+Who? The agency’s Chief Data Officer, Statistical Official, Evaluation Officer, Chief Human Capital
+Officer, Chief Learning Officer, and Data Governance Body.
+
+How? Develop and implement a process to determine alignment of staff data skills to critical agency
+data skills identified in Step 1.
+
+Checklist
+
+O Decide how best to assess staff capacity to perform the data skills identified in Step 1 across the
+agency. Possible options include analyzing agency position descriptions and personnel data,
+querying supervisors or staff through surveys or focus groups, and measuring knowledge
+through pre- and post-training tests. Often a combination of methods will be needed to fully
+assess capacity. Creating survey and test questions and focus group protocols are examples of
+activities that require using appropriate data skills to properly develop.
+
+O1 Perform the assessment and review the results.
+
+Example
+
+Agency X took a two-pronged approach to Step 2 — Assess the current staff capacity for needed data
+skills. Using notes from its Step 1 discussions for inspiration, the agency Evaluation Officer, Chief Data
+Officer and Statistical Official created a survey with 10 questions capturing a) to what extent program
+managers consider a given data process is relevant to their work, and b) to what extent, if relevant, they
+believe their staff have the requisite skills to execute that process. In addition to this widely-distributed
+survey, the team coordinated with the Chief Human Capital Officer and Learning Officer, and conducted
+several hour-long focus groups to get a deeper understanding of current data skills capacity. To round
+out the analysis, they worked with the Chief Human Capital Officer to analyze personnel data to
+determine potential staff turnover using retirement eligibility in key data roles. This approach was
+feasible for Agency X; yet, a different method may be necessary for other agencies.
+
+STRATEGY.DATA.GOV Page7 RESOURCES.DATA.GOV

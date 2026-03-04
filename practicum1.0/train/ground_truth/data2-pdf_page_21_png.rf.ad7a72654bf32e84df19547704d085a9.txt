@@ -1,0 +1,159 @@
+Federal Data Strategy
+
+Data Role
+
+Curate: Organize, refine, and maintain agency data
+resources with sufficient quality to meet agency and
+stakeholder needs
+
+Practices
+
+16.
+19.
+20.
+21)
+
+24.
+32.
+33.
+
+Inventory Data Assets
+
+Maintain Data Documentation
+
+Leverage Data Standards
+
+Align Agreements with Data Management
+Requirements
+
+Enhance Data Preservation
+
+Harness Safe Data Linkage
+
+Promote Wide Access
+
+* Techniques to understand and clean raw and
+unstructured data
+
+* Knowledge of operating systems
+
+* Develop scalable extract, transform, and load
+(ETL) processes
+
+* Big data technologies
+
+* Data warehouse/architecture design,
+development, construction, and maintenance
+
+* Programming tools
+
+* Statistics, data checking, and internal controls on
+data reporting and quality, consistency, and logic
+edits
+
+* Information quality control and quality assurance
+methods and techniques
+
+* Understand and incorporate stakeholder needs
+and requirements
+
+Domain Expert input is important at this step
+
+Access: |\dentify and develop multiple data access
+
+methods for agency staff and stakeholders
+
+Practices
+5. Prepare to Share
+
+22.
+
+25.
+26.
+
+31.
+33.
+34.
+35.
+
+Identify Opportunities to Overcome Resource
+Obstacles
+
+Coordinate Federal Data Assets
+
+Share Data Between State, Local, and Tribal
+Governments and Federal Agencies
+
+Explicitly Communicate Allowable Use
+Promote Wide Access
+
+Diversify Data Access Methods
+
+Review Data Releases for Disclosure Risk
+
+* Disclosure risk limitation
+
+* File formats
+
+* Business acumen
+
+* Communication
+
+* Data sharing policies
+
+* Database authentication methods
+
+* Tiered access to data methods
+
+* Understand stakeholders needs and
+requirements
+
+* Data modeling and transformation
+
+Analyze: Optimize the ability of staff and stakeholders
+to use agency data to generate insights
+
+Practices
+
+27.
+
+Increase Capacity for Data Management and
+
+Analysis
+
+31.
+38.
+39.
+40.
+
+Explicitly Communicate Allowable Use
+Leverage Collaborative Computing Platforms
+Support Federal Stakeholders
+
+Support Non-Federal Stakeholders
+
+* Math and statistics
+
+* Trend or pattern analysis
+
+* Predictive modeling and projections
+
+* Geospatial analysis
+
+* Machine learning algorithms, artificial
+intelligence, natural language processing and
+rapid process automation
+
+* Data conditioning and data mining
+
+* Communication
+
+* Generate dashboards, charts, and graphs
+
+Domain Expert input is important at this step
+
+STRATEGY.DATA.GOV
+
+Page 19
+
+RESOURCES.DATA.GOV

@@ -1,0 +1,142 @@
+US 2007/0090937 Al
+
+required for the vehicle to reach a refueling station), as
+shown at reference numeral 21.
+
+[0032] It is to be understood that the position of the vehicle
+12 may be monitored using the location detection system 24
+operatively disposed in the vehicle 12. The position of the
+vehicle 12 may be monitored substantially continuously or
+at predetermined time intervals.
+
+[0033] Some vehicle systems 16 and/or the call center 46
+are capable of monitoring the vehicle fuel conditions. Non-
+limitative examples of such fuel conditions include remain-
+ing fuel level, fuel usage rate (fuel usage per unit distance
+traveled), and/or the like, and/or combinations thereof.
+
+[0034] In an embodiment, the system(s) 16 monitor the
+fuel conditions, such as a remaining fuel quantity. The data
+collected by the system(s) 16 is then transmitted to the
+vehicle communications network 14, which in turn commu-
+nicates such data to the telematics unit 18. The telematics
+unit 18 communicates the data to the call center 46 via the
+other components in the system 10. The call center 46 may
+monitor other fuel conditions using the data and other data
+retrieved. For example, the call center 46 may use the fuel
+level data and vehicle speed to calculate the fuel usage rate
+(ie. the rate at which the vehicle 12 is currently using fuel).
+
+In an alternate embodiment, the processor 20 is capable of
+monitoring the fuel conditions.
+
+[0035] Using the data regarding the fuel condition(s), an
+off-board system (e.g. the call center 46) or the on-board
+processor 20 is capable of determining a remaining driving
+distance. It is to be understood that the remaining driving
+distance is indicative of the mileage that the vehicle 12 may
+travel with the current fuel level and at the current fuel usage
+rate. It is to be further understood that the mileage is
+representative of actual driving distances by highways and
+streets available to the user. As previously stated, the
+remaining driving distance may be continuously monitored
+and updated.
+
+0036] ‘The remaining driving distance may be presented
+to the user via audible prompts, digital displays (non-
+limitative examples of which include a multi-function dis-
+play (MFD), an LCD display, a driver information center
+display, a radio display, an arbitrary text device, and/or
+combinations thereof), and/or combinations thereof.
+
+0037] The method further includes monitoring the then-
+current position of the vehicle 12 and providing the user with
+a location of (and/or directions to) at least one refueling
+station within the remaining driving distance of the vehicle
+12. It is to be understood that the method includes deter-
+mining a driving distance to the refueling stations that are
+within the remaining driving distance.
+
+0038] The call center 46 is capable of accessing a data-
+base of the locations of refueling stations and then deter-
+mining the refueling stations within the remaining driving
+distance of the vehicle 12. The call center 46 may commu-
+nicate the location(s) of the refueling stations to the user via
+the telematics unit 18. In an alternate embodiment, the
+on-board processor 20 is capable of accessing a database of
+locations of refueling stations and determining whether the
+refueling stations are within the remaining driving distance,
+and providing the locations of the refueling stations to the
+user. It is to be understood that the refueling station loca-
+
+Apr. 26, 2007
+
+tion(s) may be presented to the driver using audio prompts
+and/or display systems, such as those described hereinabove.
+[0039] In any of the embodiment(s) disclosed herein, the
+call center 46 and/or the on-board processor 20 may addi-
+
+tionally check the hours of operation for fueling stations and
+exclude those that are closed at the then-current time.
+
+[0040] It is to be understood that the locations, operating
+hours, type(s) of fuel sold/dispensed, and/or any other
+relevant data regarding fueling stations may be substantially
+
+regularly updated to the vehicle 12 using components of the
+system 10 that are linked to, for example, a central reposi-
+tory of fueling station data that has the ability to respond
+relatively quickly to a request to download data. The vehi-
+cle’s location detection system 24 may provide its location,
+
+ing driving distance, fuel type, and optionally the last
+time the database was updated. The central repository would
+download (for example, to an on-board computer 20 having
+monitoring, computational, decision making, and commu-
+nication capabilities) the location of the appropriate refuel-
+ing stations within the current driving range, taking into
+account a designated or predetermined margin for error. In
+a non-limitative example where the vehicle 12 remains in
+the same area that it was in at the last update, new station
+locations may be downloaded.
+
+[0041] Further, the distance from the then-current vehicle
+position to any of the locations of the refueling stations
+within the remaining driving distance may be continuously
+monitored. Actual driving distance/range of the vehicle 12
+may be altered by changes in weather conditions, changes in
+road conditions (e.g. rural versus city driving, or mountain-
+ous versus flat roads), changes in the route stored in the
+navigation system, and/or the like. In a non-limitative
+example, if the road or weather conditions slow a driver
+down, or if the driver is re-routed due to a detour, fuel usage
+rate may change, thus altering the remaining driving dis-
+tance/range and potentially altering the fueling locations
+within the remaining driving distance.
+
+[0042] In an embodiment, the fuel station locations pro-
+vided to the user may be particular to that user and/or
+vehicle. For example, the call center 46 may have on file that
+the vehicle 12 requires diesel fuel, and thus will provide to
+the user the location of fueling stations that sell diesel fuel.
+Alternately, the vehicle 12 may identify the required fuel
+type when a fueling station location update is requested or
+performed.
+
+[0043] Upon being presented with various fueling station
+locations, the user may proceed to any refueling station
+selected from a list of suitable available alternatives (if any).
+The user may also initiate a navigation route request to a
+particular station. Initiation of the request may be verbal
+and/or via a physical motion. As such, an input system (used
+to initiate such a request) may include an alphanumeric
+keypad, a microphone 28, a menu selection system, and/or
+combinations thereof.
+
+[0044] Verbal communication may take place via micro-
+phone 28 coupled to the in-vehicle or mobile phone 32
+associated with the telematics unit 18. Caller utterances into
+the microphone 28 are received at a call center 46, which
+tokenizes the utterance stream for further processing. In one
+embodiment, the tokenized utterances are placed in a sub-
+scriber information database 52 at the call center 46.
