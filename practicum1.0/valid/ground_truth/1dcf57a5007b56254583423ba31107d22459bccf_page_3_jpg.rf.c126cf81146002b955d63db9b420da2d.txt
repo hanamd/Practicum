@@ -1,0 +1,38 @@
+e The target of the model is P (#damaged houses > threshold t). Several combinations of
+Probability P and threshold t are used as a trigger for early action. Make a clear
+statement under which circumstance which combination is used. This will help with later
+evaluation of the model and transparency of its use.
+
+e As mentioned in the ethical review, more information about the sources of the input data
+is desirable. The model should include information on how often the data sets are
+updated, and how often the model is retrained to reflect these updates.
+
+e The model is compared against a damage curve that is currently used to estimate
+damage. Adjust this benchmark to whichever model or algorithm is used by the
+Philippine authorities to estimate damage.
+
+e Specify how much variance in model performance is acceptable, i.e., with the model
+working on average better than the benchmark, how much extreme over /
+underestimation is acceptable for field use. More specifically, indicate how robust the
+model performance is over different typhoons.
+
+e For every model version, make a model release and keep an updated list of associated
+input data. This will make reproducibility of earlier results easier and help keep track of
+the data sources (and whose responsibility those are).
+
+2.2 Ethical Review
+
+The model performance scores for 2021 Typhoon Surigae are not reported. The rationale for
+using the given error / accuracy tool and not others is missing. The model does not perform well
+at predicting really low and really high damage.
+e Recommendation: (1) Report latest error scores; (2) Contextualise the quality of the error
+scores in light of existing and relevant research; (3) Include the rationale for using a
+particular method of calculating error score as opposed to others.
+
+In the case of Typhoon Goni in 2020, the model did not predict an extreme event until only a few
+hours before landfall.
+
+e Recommendation: If the model does have 100% weightage in the activation of the
+trigger, then the possibility of a false negative should be clear operationally, e.g., in the
+case of Typhoon Goni. This is of particular importance because we know that the model
+does perform well in cases of rapid intensification or high damage scenarios.

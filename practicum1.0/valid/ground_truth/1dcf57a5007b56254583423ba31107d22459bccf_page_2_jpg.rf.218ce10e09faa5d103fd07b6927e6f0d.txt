@@ -1,0 +1,42 @@
+WER _—- 7 a | An ‘initiative of
+(ey centre for humdata 510 the Netherlands
+S74 L y . Red Cross
+
+Model Report:
+Typhoon impact model
+
+1. Background
+
+This document summarises the documentation and the finding of the peer review of the trigger
+used in OCHA’s Philippines Anticipatory Action framework for typhoons. The impact prediction
+model used as the basis for the trigger was developed by the Netherlands Red Cross 510 data
+and digital team, on behalf of the IFRC network and its partners. The model uses typhoon track
+and rainfall forecasts to predict the percentage of houses that will be severely damaged per
+municipality in the Philippines. OCHA Philippines used this model as a basis to begin a response
+before a typhoon hit, based on the predicted number of houses damaged in the regions of Bicol
+and Eastern Visayas. To find out more about this application, please see the Anticipatory Action
+Framework for the Philippines.
+
+This peer review was conducted between September 2021 and July 2022.
+
+2. Main Findings and Recommendations
+The documentation regarding the model, its application and the review process can be found at
+the following links:
+
+e The Model Card describes version 1.0 of the model and was completed in September
+2021.
+
+e The Model Evaluation Matrix was completed in October 2021 by a technical expert from
+Leiden University, and in February 2022 by the client.
+
+e The Implementation Plan was completed in October 2021. It summarises the concrete
+actions that the model will trigger or inform as part of the 2021-2022 OCHA anticipatory
+action framework in the Philippines
+
+e The Ethical Matrix aims to identify all stakeholders and potential issues regarding the
+intended use of the model. It was completed in November 2021 by an expert from the
+London School of Economics; and updated in July 2022.
+
+A summary of the main findings and recommendations is provided below.
+
+2.1 Technical Review

@@ -1,0 +1,43 @@
+COMPSTAT DAI Statistical Report - 13 Month
+
+Data Analysis 13 Month as of 09-09-2010
+
+Location(s): CCI, COR, HDSP, KVSP, PBSP, SAC, SVSP
+
+PBSP_ Total EOP Populations
+
+Budgeted Capacity 66 66 66 66 66 66 66 66 66 66 66 66 66
+Actual Population 180 186 178 175 183 188 183 176 176 164 171 163 160
+EOP-GP (GP Housing Program)
+
+Budgeted Capacity 66 66 66 66 66 66 66 66 66 66 66 66 66
+Actual Population 68 65 64 64 68 71 67 63 59 59 60 60 62
+EOP Other Housing Programs
+
+Actual Population 112 121 114 iit 115 117 116 113 116 105 11 103 98
+EOP-SNY
+
+Budgeted Capacity 0 0 0 0 0 0 0 0 0 0 0 0 0
+Actual Population 0 0 0 0 0 0 0 0 0 0 0 0 0
+EOP-ASU
+
+Budgeted Capacity 0 0 0 0 0 0 0 0 0 0 0 0 0
+Actual Population 0 0 0 0 0 0 0 0 1 0 0 0 0
+Psychiatric Services Unit
+
+Budgeted Capacity 128 128 128 128 128 128 128 128 128 128 128 128 128
+Actual Population 113 116 117 107 110 111 105 103 108 109 11 110 108
+Average Length of Stay 402 333 321 370 372 342 355 329 315 303 305 316 316
+Security Housing Unit
+
+Budgeted Capacity 1,109 1,109 1,109 1,109 1,109 1,109 1,109 1,109 1,109 1,109 1,109 1,109 1,109
+Actual Population 1,120 1,126 1,124 1,121 1,122 4121 1,114 1,115 1,117 1,116 1,113 1114 1,115
+Single Cell Inmates
+
+Single Cell Inmate Summary 1,446 1,437 1454 1,458 1,484 1,466 1,466
+Summary with S-Suffix 1,365 1,357 1,390 1,386 1,403 1414 1,417
+Summary without S-Suffix 81 80 64 72 81 52 49
+Total General Population (GP) 104 83 79 83 60 63 57 48 50 45 58 46 46
+GP with S-Suffix 59 52 50 47 45 41 38 38 37 39 42 34 32
+
+GP without S-Suffix 45 31 29 36 15 22 19 10 13 6 16, 12 14
