@@ -1,6 +1,6 @@
 # YouTube Thumbnail Virality Predictor
 
-A machine learning pipeline that predicts how viral a YouTube thumbnail is likely to be, using CLIP embeddings and XGBoost regression. Users upload a thumbnail and receive a predicted virality score, estimated views per day, and AI-generated improvement suggestions powered by Claude.
+A machine learning pipeline that predicts how viral a YouTube thumbnail will be, using CLIP embeddings and XGBoost regression. Users upload a thumbnail and receive a predicted virality score, estimated views per day with hard coded sugesstions.
 
 ---
 
@@ -20,9 +20,9 @@ A machine learning pipeline that predicts how viral a YouTube thumbnail is likel
 
 ## Project Overview
 
-This project was developed as a Data Science Practicum at Regis University. It builds a predictive system that evaluates YouTube thumbnails for viral potential using two feature extraction strategies — CLIP semantic embeddings and manually engineered visual features — fed into an XGBoost regression model.
+This project was developed as a Data Science Practicum at Regis University. It builds a predictive system that evaluates YouTube thumbnails for viral potential using two feature extraction strategies ,CLIP semantic embeddings and manually engineered visual features , fed into an XGBoost regression model.
 
-The system distinguishes between **Short-form** and **Long-form** video formats, as the two respond to completely different visual signals. The final demo allows a user to upload any thumbnail image and receive an instant virality prediction alongside actionable design feedback.
+The system distinguishes between **Short-form** and **Long-form** video formats, as the two respond to completely different visual signals. 
 
 **Dataset:** 4,650 YouTube thumbnails across Music, People & Blogs, and Gaming categories, collected via the YouTube Data API v3.
 
@@ -70,7 +70,7 @@ MyDrive/capstone/
     ├── Project2_0.ipynb                # Step 1: Data collection, preprocessing, EDA
     ├── project2_1.ipynb                # Step 2: CLIP embedding + visual feature extraction
     ├── project2_2.ipynb                # Step 3: Model training, ablation study, SHAP analysis
-    └── Final_Model.ipynb               # Step 4: Interactive demo with Claude AI suggestions
+    └── Final_Model.ipynb               # Step 4: Interactive demo 
 ```
 
 > **Note:** The `thumbnails/` folder can be large (4,000+ images). Make sure you have sufficient Google Drive space before running the collection notebook.
@@ -83,7 +83,7 @@ MyDrive/capstone/
 
 - A Google account with Google Drive and Google Colab access
 - A YouTube Data API v3 key (free, via [Google Cloud Console](https://console.cloud.google.com))
-- An Anthropic API key for the Claude-powered suggestions (optional — a fallback is built in)
+- An Anthropic API key, if you dont want hard code sugestion, for the Claude-powered suggestions (optional — a fallback is built in)
 
 ### 1. Clone or upload the notebooks
 
@@ -123,14 +123,14 @@ API_KEYS = [
 ]
 ```
 
-In `Final_Model.ipynb` (and `project2_2.ipynb`), replace the Anthropic key:
+Also in `Final_Model.ipynb` (and `project2_2.ipynb`), replace the Anthropic key:
 
 ```python
 ANTHROPIC_API_KEY = "YOUR_ANTHROPIC_API_KEY"
 ```
 
-If no valid Anthropic key is provided, the demo automatically falls back to rule-based suggestions derived from model training results.
-
+As metioned before if no valid Anthropic key is provided, the demo automatically falls back to rule-based suggestions derived from model training results.
+**Note** Anthropic suggestion are a small part of the project still going through testing and is currently a draft code
 ---
 
 ## How to Run — Step by Step
@@ -144,11 +144,11 @@ This notebook calls the YouTube Data API to search for videos across multiple ca
 Key outputs:
 - `Project2data/raw/video_metadata.csv`
 - `Project2data/thumbnails/<video_id>_<quality>.jpg` (one file per video)
-- `Project2data/raw/progress.json` (allows resuming if quota runs out mid-collection)
+- `Project2data/raw/progress.json` (allows resuming if API quota runs out mid-collection)
 
-The notebook also performs exploratory data analysis including view count distributions, category breakdowns, Shorts vs. long-form ratios, and the age-adjusted `log_views_per_day` target variable.
 
-> The API has a daily quota of ~10,000 units. The notebook supports two rotating API keys and saves progress after each search query so you can resume the next day without re-downloading completed batches.
+
+> Note API has a daily quota of ~10,000 units. The notebook supports two rotating API keys and saves progress after each search query so you can resume the next day without re-downloading completed batches.
 
 ---
 
@@ -156,7 +156,7 @@ The notebook also performs exploratory data analysis including view count distri
 
 This notebook extracts two types of features from the downloaded thumbnails.
 
-**CLIP embeddings** — loads OpenAI's ViT-B/32 model, encodes every thumbnail into a 512-dimensional vector, then applies PCA to reduce to 50 dimensions (retaining ~58% of variance).
+**CLIP embeddings** — CLIP is retirived from github repository for OpenAI with CLIP models. The code loads OpenAI's ViT-B/32 model, encodes every thumbnail into a 512-dimensional vector, then applies PCA to reduce to 50 dimensions (retaining ~58% of variance).
 
 Key outputs:
 - `Project2data/embeddings/clip_embeddings_512.npy`
@@ -185,7 +185,7 @@ Key output:
 
 This notebook merges all features, trains models, and runs a systematic ablation study across 9 configurations.
 
-**Baseline:** Ridge regression (R² = 0.045) — establishes a minimum threshold to beat.
+**Baseline:** Ridge regression  — establishes a minimum threshold to beat.
 
 **Ablation study:** Nine XGBoost models are trained varying the data subset (all / Shorts only / long-form only) and feature type (engineered / CLIP / both). All models use an 80/20 train-test split and are evaluated on R², MAE, and RMSE.
 
@@ -201,10 +201,11 @@ XGBRegressor(
     random_state=42,
 )
 ```
+**Note**: You can play arounf with hyperparameters to test out other possible accuracy rates
 
-SHAP (SHapley Additive exPlanations) values are then computed for the two best models (M8 and M5) to identify which CLIP dimensions drive predictions in each format.
+SHAP values are then computed for the two best models to identify which CLIP dimensions drive predictions in each format.
 
-Key outputs saved to `models/`:
+For project runn Key outputs arevsaved to `models/`:
 - `m8_longform_clip.pkl` and `m8_longform_scaler.pkl`
 - `m5_shorts_clip.pkl` and `m5_shorts_scaler.pkl`
 - `clip_feature_names.json`
@@ -226,7 +227,7 @@ This is the user-facing demo. It loads the saved models and presents an `ipywidg
 
 **Output includes:**
 - A preview of the uploaded thumbnail
-- Virality score (log views/day), estimated views/day, and a tier label (🔥 High / ⚡ Medium / 📉 Low)
+- Virality score (log views/day), estimated views/day, and a tier label ( High /  Medium /  Low)
 - AI-generated suggestions via Claude, or rule-based fallback suggestions if the API is unavailable
 
 ---
@@ -246,19 +247,16 @@ log_views_per_day = log(1 + views_per_day)
 
 ### CLIP Feature Extraction
 
-CLIP (Contrastive Language-Image Pre-training) is a neural network trained to understand images in a semantically rich way — it encodes not just pixel patterns but high-level concepts like mood, composition, subject type, and visual style into a 512-dimensional vector. PCA is applied to reduce this to 50 dimensions before passing to XGBoost, balancing information retention with model efficiency.
+CLIP (Contrastive Language-Image Pre-training) is a neural network trained to understand images in a semantically rich way , it encodes not just pixel patterns but high-level concepts like mood, composition, subject type, and visual style into a 512-dimensional vector. PCA is applied to reduce this to 50 dimensions before passing to XGBoost, balancing information retention with model efficiency.
 
-### Why Separate Models for Shorts vs. Long-form?
 
-Analysis showed that the two formats respond to fundamentally different visual signals. Training a single model on the combined dataset produced lower performance than training format-specific models. The SHAP analysis confirmed this: the top CLIP dimensions driving long-form virality (clip_3, clip_1 — associated with production quality and clear subject framing) are entirely different from those driving Shorts virality (clip_11, clip_7, clip_0 — associated with dynamic, energetic, motion-heavy content).
+### Draft AI Suggestions Integration
 
-### AI Suggestions Integration
-
-The demo sends the virality score, format, estimated views, and top CLIP dimensions to Claude via the Anthropic Messages API. Claude is given a system prompt describing the model's training findings and asked to generate four specific pieces of feedback in under 200 words. If the API call fails for any reason (rate limit, missing key, network error), the system falls back automatically to pre-written rule-based suggestions derived directly from SHAP analysis results.
+The demo sends the virality score, format, estimated views, and top CLIP dimensions to Claude via the Anthropic Messages API. The goal is to give claude a system prompt describing the model's training findings and asked to generate four specific pieces of feedback in under 200 words. If the API call fails for any reason (rate limit, missing key, network error), the system falls back automatically to pre-written rule-based suggestions derived directly from SHAP analysis results.
 
 ---
 
-## Model Summary
+## Project Model Summary
 
 | Model | Data | Features | R² |
 |---|---|---|---|
@@ -274,21 +272,3 @@ The demo sends the virality score, format, estimated views, and top CLIP dimensi
 
 M5 and M8 are the production models used in the demo.
 
----
-
-## Key Findings
-
-- **CLIP features substantially outperform engineered pixel features** in all three data subsets, confirming that semantic understanding of thumbnails matters more than raw measurements like brightness or saturation.
-- **Dark thumbnails consistently underperform.** `dark_ratio` was the single strongest negative predictor in the engineered feature analysis.
-- **Cluttered compositions hurt performance.** High `edge_density` was the second-strongest negative predictor.
-- **Vivid, colorful thumbnails do better.** `saturation`, `colorfulness`, `warm_ratio`, and `contrast` all had positive correlations with virality.
-- **Face presence is a positive signal**, but not the dominant one — CLIP's semantic dimensions carry more predictive weight than face detection alone.
-- **Shorts and long-form are fundamentally different problems.** The CLIP dimensions that matter for each format share no overlap in their top 5, which is why format-specific models are essential.
-
----
-
-## Limitations & Future Work
-
-The current system is scoped to three content categories (Music, People & Blogs, Gaming) and does not account for title text, channel authority, or posting time — all of which affect real-world performance. The model treats each thumbnail as independent and has no access to time-series view data, which limits its ability to detect true "tipping point" virality behavior.
-
-Future improvements could include expanding the dataset to more categories with more varied search queries, incorporating user-provided variables like intended category and video duration for more precise benchmarking, and building personalized channel-level models that factor in a creator's historical click-through rate and subscriber base alongside platform-wide visual patterns.
