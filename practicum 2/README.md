@@ -10,7 +10,6 @@ A machine learning pipeline that predicts how viral a YouTube thumbnail will be,
 - [Folder Structure](#folder-structure)
 - [Setup Instructions](#setup-instructions)
 - [How to Run — Step by Step](#how-to-run--step-by-step)
-- [Model Summary](#Project-#model-summary)
 
 ---
 
@@ -251,20 +250,4 @@ CLIP (Contrastive Language-Image Pre-training) is a neural network trained to un
 The demo sends the virality score, format, estimated views, and top CLIP dimensions to Claude via the Anthropic Messages API. The goal is to give claude a system prompt describing the model's training findings and asked to generate four specific pieces of feedback in under 200 words. If the API call fails for any reason (rate limit, missing key, network error), the system falls back automatically to pre-written rule-based suggestions derived directly from SHAP analysis results.
 
 ---
-
-## Project Model Summary
-
-| Model | Data | Features | R² |
-|---|---|---|---|
-| M1 | All | Engineered | 0.345 |
-| M2 | All | CLIP | 0.573 |
-| M3 | All | CLIP + Engineered | 0.567 |
-| M4 | Shorts | Engineered | 0.309 |
-| **M5** | **Shorts** | **CLIP** | **0.523** ✓ |
-| M6 | Shorts | CLIP + Engineered | 0.516 |
-| M7 | Long-form | Engineered | 0.493 |
-| **M8** | **Long-form** | **CLIP** | **0.736** ✓ |
-| M9 | Long-form | CLIP + Engineered | 0.717 |
-
-M5 and M8 are the production models used in the demo.
 
