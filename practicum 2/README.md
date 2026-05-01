@@ -14,7 +14,6 @@ A machine learning pipeline that predicts how viral a YouTube thumbnail will be,
 - [Model Summary](#model-summary)
 - [Key Findings](#key-findings)
 - [Using the Demo](#using-the-demo)
-- [Limitations & Future Work](#limitations--future-work)
 
 ---
 
