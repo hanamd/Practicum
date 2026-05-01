@@ -10,7 +10,7 @@ A machine learning pipeline that predicts how viral a YouTube thumbnail will be,
 - [Folder Structure](#folder-structure)
 - [Setup Instructions](#setup-instructions)
 - [How to Run — Step by Step](#how-to-run--step-by-step)
-- [Model Summary](#model-summary)
+- [Model Summary](#Project-#model-summary)
 
 ---
 
